@@ -14,8 +14,5 @@ function getDemeritPoints(speed) {
   
   }
   
-  const speed = 80; 
-  console.log(getDemeritPoints(speed)); // Prints "Demerit points: 2"
-  
 
         
